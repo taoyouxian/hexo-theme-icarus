@@ -14,7 +14,7 @@ common:
     prev: 'Zurück'
     next: 'Weiter'
 widget:
-    follow: 'Folgen'
+    follow: 'Follow'
     recents: 'Letzte Einträge'
     links: 'Links'
     tag_cloud: 'Tag Cloud'
